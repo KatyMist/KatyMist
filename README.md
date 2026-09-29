@@ -12,40 +12,32 @@
 
 ---
 
-## Technical Skills
+## 🧩 Technical Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FF4D6D?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-3A86FF?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-FF5FD2?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFE600?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-00E0C6?style=for-the-badge&logo=postman&logoColor=black" />
-  <img src="https://img.shields.io/badge/BEM-8338EC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Basic_SEO-38F28B?style=for-the-badge&logo=googlesearchconsole&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,postman&perline=8" />
 </p>
 
-## Currently Learning
-
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/English-A2-FF9F1C?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=7B2FF7" />
+  <code>BEM</code> · <code>REST API</code> · <code>Basic SEO</code> · <code>Responsive Design</code>
 </p>
 
-## Tools & Approach
+## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-7B2FF7?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-B14AED?style=for-the-badge&logo=vite&logoColor=FFE600" />
-  <img src="https://img.shields.io/badge/Figma-FF3CAC?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-00F5D4?style=for-the-badge&logo=markdown&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=react,ts&perline=8" />
 </p>
 
-## Languages
+## 🛠️ Tools & Approach
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Russian-Native-FF006E?style=for-the-badge&labelColor=3A0CA3" />
-  <img src="https://img.shields.io/badge/English-A2-FF9F1C?style=for-the-badge&labelColor=7B2FF7" />
+  <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode,md&perline=8" />
+</p>
+
+## 🌍 Languages
+
+<p align="center">
+  🇷🇺 <b>Russian</b> — native &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 <b>English</b> — A2, learning
 </p>
 
 <!-- Нижняя волна -->
