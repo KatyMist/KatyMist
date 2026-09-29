@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode,md&perline=8" />
 </p>
 
-<h2 align="center">🌍 Languages</h2>
+<h2 align="center">Languages</h2>
 
 <p align="center">
   🇷🇺 <b>Russian</b> — native &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 <b>English</b> — A2, learning
