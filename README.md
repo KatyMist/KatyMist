@@ -5,7 +5,9 @@
 
 <!-- Печатающийся текст -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF3CAC&center=true&vCenter=true&width=520&lines=Frontend+Developer+in+progress+✨;HTML+•+CSS+•+SCSS+•+JavaScript;Learning+React+🚀;Pixel-perfect+%26+colorful+UI+🎨" />
+  <a href="https://github.com/KatyMist">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF3CAC&center=true&vCenter=true&width=520&lines=Frontend+Developer+in+progress;HTML+%7C+CSS+%7C+SCSS+%7C+JavaScript;Learning+React+now;Colorful+and+pixel-perfect+UI" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
