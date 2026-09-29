@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">🧩 Technical Skills</h2>
+<h2 align="center">Technical Skills</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,postman&perline=8" />
@@ -22,13 +22,13 @@
   <code>BEM</code> · <code>REST API</code> · <code>Basic SEO</code> · <code>Responsive Design</code>
 </p>
 
-<h2 align="center">📚 Currently Learning</h2>
+<h2 align="center">Currently Learning</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts&perline=8" />
 </p>
 
-<h2 align="center">🛠️ Tools & Approach</h2>
+<h2 align="center">Tools & Approach</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode,md&perline=8" />
