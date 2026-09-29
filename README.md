@@ -12,7 +12,7 @@
 
 ---
 
-## 🧩 Technical Skills
+## Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF4D6D?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,14 +24,14 @@
   <img src="https://img.shields.io/badge/Basic_SEO-38F28B?style=for-the-badge&logo=googlesearchconsole&logoColor=black" />
 </p>
 
-## 📚 Currently Learning
+## Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/English-A2-FF9F1C?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=7B2FF7" />
 </p>
 
-## 🛠️ Tools & Approach
+## Tools & Approach
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=white" />
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Markdown-00F5D4?style=for-the-badge&logo=markdown&logoColor=black" />
 </p>
 
-## 🌍 Languages
+## Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Russian-Native-FF006E?style=for-the-badge&labelColor=3A0CA3" />
