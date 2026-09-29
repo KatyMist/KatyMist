@@ -12,7 +12,7 @@
 
 ---
 
-## 🧩 Technical Skills
+## Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,postman&perline=8" />
@@ -22,19 +22,19 @@
   <code>BEM</code> · <code>REST API</code> · <code>Basic SEO</code> · <code>Responsive Design</code>
 </p>
 
-## 📚 Currently Learning
+## Currently Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts&perline=8" />
 </p>
 
-## 🛠️ Tools & Approach
+## Tools & Approach
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode,md&perline=8" />
 </p>
 
-## 🌍 Languages
+## Languages
 
 <p align="center">
   🇷🇺 <b>Russian</b> — native &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 <b>English</b> — A2, learning
