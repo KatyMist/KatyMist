@@ -26,6 +26,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/_learning-React-12B5A6?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/_learning-TypeScript-0EA5E9?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/🇷🇺_Russian-native-0B6E4F?style=flat-square" />
   <img src="https://img.shields.io/badge/🇬🇧_English-A2_(learning)-0077B6?style=flat-square" />
 </p>
