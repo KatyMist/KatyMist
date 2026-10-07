@@ -1,6 +1,6 @@
 <!-- Шапка -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,50:12B5A6,100:0EA5E9&height=140&section=header&text=Hi%20there!%20I'm%20Catherine%20&fontColor=ffffff&fontSize=32&fontAlignY=32&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,50:12B5A6,100:0EA5E9&height=140&section=header&text=Hi%20there!%20I'm%20Catherine&fontColor=ffffff&fontSize=32&fontAlignY=32&animation=fadeIn" />
 </p>
 
 <!-- Печатающийся текст -->
@@ -24,13 +24,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/_learning-React-12B5A6?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/_learning-TypeScript-0EA5E9?style=flat-square&logo=typescript&logoColor=white" />
+  <b>Currently Learning</b><br/>
+  <img src="https://img.shields.io/badge/React-12B5A6?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0EA5E9?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🇷🇺_Russian-native-0B6E4F?style=flat-square" />
-  <img src="https://img.shields.io/badge/🇬🇧_English-A2_(learning)-0077B6?style=flat-square" />
+  <b>Languages</b><br/>
+  <img src="https://img.shields.io/badge/Russian-native-0B6E4F?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-A2-0077B6?style=flat-square" />
 </p>
 
 <!-- Нижняя волна -->
