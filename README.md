@@ -22,7 +22,7 @@
   Frontend developer with a background in ecology, forestry and public administration.<br/>
   I turn Figma designs into clean, responsive, accessible interfaces and ship them to production.<br/>
   Delivered a commercial website for a real client end-to-end: structure, markup, SEO, analytics.<br/>
-  Now deepening React and TypeScript at <b>RS School</b> (JS/FE Short Track + Fullstack, 2026).
+  Now deepening React and TypeScript at <b>RS School</b>.
 </p>
 
 <h3 align="center">Tech Stack & Tools</h3>
