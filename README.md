@@ -99,11 +99,6 @@
   <a href="https://katymist.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0077B6?style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KatyMist&show_icons=true&hide_border=true&bg_color=0:0B6E4F&title_color=12B5A6&icon_color=0EA5E9&text_color=6b7280&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyMist&layout=compact&hide_border=true&title_color=12B5A6&text_color=6b7280&theme=transparent" height="150" />
-</p>
-
 <!-- Нижняя волна -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:12B5A6,100:0B6E4F&height=80&section=footer" />
